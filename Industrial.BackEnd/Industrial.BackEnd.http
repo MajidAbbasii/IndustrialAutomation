@@ -1,0 +1,6 @@
+@Industrial.BackEnd_HostAddress = http://localhost:5217
+
+GET {{Industrial.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
