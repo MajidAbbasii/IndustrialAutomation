@@ -1,6 +1,6 @@
 @using MudBlazor.Extensions
 @using Industrial.Client.Models.SideMenu
-<MudDrawer Breakpoint="Breakpoint.Md" Anchor="Anchor.End"
+<MudDrawer dir="rtl" Breakpoint="Breakpoint.Md" Anchor="Anchor.End"
            Class="side-menu"
            Elevation="0"
            MiniWidth="100px"
@@ -81,7 +81,7 @@
             {
                 @if (sectionItem.IsParent)
                 {
-                    <MudNavGroup Icon="@sectionItem.Icon"
+                    <MudNavGroup  Icon="@sectionItem.Icon"
                                  Title="@sectionItem.Title">
                         @foreach (var menuItem in sectionItem.MenuItems)
                         {

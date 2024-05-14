@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Industrial\\Industrial.Client\\Industrial.Client.csproj": {}
+    "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.Client\\Industrial.Client.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Industrial\\Industrial.Client\\Industrial.Client.csproj": {
+    "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.Client\\Industrial.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Industrial\\Industrial.Client\\Industrial.Client.csproj",
+        "projectUniqueName": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.Client\\Industrial.Client.csproj",
         "projectName": "Industrial.Client",
-        "projectPath": "F:\\Projects\\Industrial\\Industrial.Client\\Industrial.Client.csproj",
-        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Industrial\\Industrial.Client\\obj\\",
+        "projectPath": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.Client\\Industrial.Client.csproj",
+        "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
+        "outputPath": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -109,12 +110,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.4, 8.0.4]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

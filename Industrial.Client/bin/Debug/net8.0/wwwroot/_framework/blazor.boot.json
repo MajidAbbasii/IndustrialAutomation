@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Industrial.Client",
   "resources": {
-    "hash": "sha256-aURPnsez9CidwWeVR9n6K+zkyOaMKb4HRq0DykEQeg4=",
+    "hash": "sha256-jrLk4UF4sjT2yDAQtHuVV3impkQS/muEuxTAYHnkiAA=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.rkw194kvb3.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -257,10 +257,10 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "Industrial.Client.wasm": "sha256-CIidOadniI/9Plnd2E+SH+ZQFq5ixaRusVoGylJxJ3o="
+      "Industrial.Client.wasm": "sha256-KK02/qsFBFSYMbfO9aIUfzMHLwxaWJ2EDde/Y1zLDyM="
     },
     "pdb": {
-      "Industrial.Client.pdb": "sha256-Ljmd7r5yzTVJBwDgbI9zrR0oPuW5JZ6FbwoYw4CyIG4="
+      "Industrial.Client.pdb": "sha256-nHN60s0LMENkzJ0yryUJxdad4k3unqiVaGU9V0Jzelg="
     },
     "satelliteResources": {
       "cs": {

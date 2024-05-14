@@ -13,91 +13,99 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Industrial.Client
 build_property.RootNamespace = Industrial.Client
-build_property.ProjectDir = F:\Projects\Industrial\Industrial.Client\
+build_property.ProjectDir = E:\Prj\dotNet\IndustrialAutomation\Industrial.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Projects\Industrial\Industrial.Client
+build_property.MSBuildProjectDirectory = E:\Prj\dotNet\IndustrialAutomation\Industrial.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Projects/Industrial/Industrial.Client/App.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Charts/ApexChart.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Charts/ApexChart.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGFydHNcQXBleENoYXJ0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/AreaInstalled.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/AreaInstalled.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxBcmVhSW5zdGFsbGVkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/ArticleCarousel.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/ArticleCarousel.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxBcnRpY2xlQ2Fyb3VzZWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/CurrentDownload.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/CurrentDownload.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxDdXJyZW50RG93bmxvYWQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/DataCard.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/DataCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxEYXRhQ2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/MudBlazorCard.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/MudBlazorCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxNdWRCbGF6b3JDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/NewInvoice.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/NewInvoice.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxOZXdJbnZvaWNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Index/TopApplications.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Index/TopApplications.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xJbmRleFxUb3BBcHBsaWNhdGlvbnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/CommandPalette.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/CommandPalette.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcQ29tbWFuZFBhbGV0dGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/NavMenu.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/NotificationMenu.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/NotificationMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTm90aWZpY2F0aW9uTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/SideMenu.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/SideMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcU2lkZU1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/Themes/ThemesButton.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/Themes/ThemesButton.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcVGhlbWVzXFRoZW1lc0J1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/Themes/ThemesMenu.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/Themes/ThemesMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcVGhlbWVzXFRoZW1lc01lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Components/Shared/UserMenu.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Components/Shared/UserMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcVXNlck1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Pages/Index.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Dialog/DialogUsageExample_Dialog.razor]
+build_metadata.AdditionalFiles.TargetPath = RGlhbG9nXERpYWxvZ1VzYWdlRXhhbXBsZV9EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Pages/User/Profile.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Pages/User/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxQcm9maWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/Shared/MainLayout.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/Industrial/Industrial.Client/_Imports.razor]
+[E:/Prj/dotNet/IndustrialAutomation/Industrial.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
