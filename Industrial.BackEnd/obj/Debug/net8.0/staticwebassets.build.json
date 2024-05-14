@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gl+wyCtm2wSPeHQ329Kpv8T91SX6fmH4DooM1kgN3t8=",
+  "Hash": "mi1kHt9vfCxmHuYbxZyivngIhmyJXTn+OzMV+/NEZh8=",
   "Source": "Industrial.BackEnd",
   "BasePath": "_content/Industrial.BackEnd",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "E:\\Prj\\dotNet\\Industrial\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css",
+      "Identity": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css",
       "SourceId": "Industrial.BackEnd",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Prj\\dotNet\\Industrial\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Industrial.BackEnd",
       "RelativePath": "Industrial.BackEnd.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Prj\\dotNet\\Industrial\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css"
+      "OriginalItemSpec": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css"
     }
   ]
 }

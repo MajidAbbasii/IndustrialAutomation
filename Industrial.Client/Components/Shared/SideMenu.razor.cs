@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Components;
+﻿using Microsoft.AspNetCore.Components;
 using MudBlazor;
 using Industrial.Client.Models;
 using Industrial.Client.Models.SideMenu;
@@ -11,7 +11,7 @@ public partial class SideMenu
     {
         new MenuSectionModel
         {
-            Title = "GENERAL",
+            Title = "داشبورد",
             SectionItems = new List<MenuSectionItemModel>
             {
                 new()
@@ -22,38 +22,37 @@ public partial class SideMenu
                 },
                 new()
                 {
-                    Title = "E-Commerce",
+                    Title = "لیست محصولات",
                     Icon = Icons.Material.Filled.ShoppingCart,
-                    Href = "/ecommerce",
-                    PageStatus = PageStatus.Wip
-                },
-                new()
-                {
-                    Title = "Analytics",
-                    Icon = Icons.Material.Filled.Analytics,
-                    Href = "/analytics",
-                    PageStatus = PageStatus.ComingSoon
-                },
-                new()
-                {
-                    Title = "Banking",
-                    Icon = Icons.Material.Filled.Money,
-                    Href = "/banking",
-                    PageStatus = PageStatus.ComingSoon
-                },
-                new()
-                {
-                    Title = "Booking",
-                    Icon = Icons.Material.Filled.CalendarToday,
-                    Href = "/booking",
-                    PageStatus = PageStatus.ComingSoon
+                    Href = "/products",
                 }
+                //new()
+                //{
+                //    Title = "Analytics",
+                //    Icon = Icons.Material.Filled.Analytics,
+                //    Href = "/analytics",
+                //    PageStatus = PageStatus.ComingSoon
+                //},
+                //new()
+                //{
+                //    Title = "Banking",
+                //    Icon = Icons.Material.Filled.Money,
+                //    Href = "/banking",
+                //    PageStatus = PageStatus.ComingSoon
+                //},
+                //new()
+                //{
+                //    Title = "Booking",
+                //    Icon = Icons.Material.Filled.CalendarToday,
+                //    Href = "/booking",
+                //    PageStatus = PageStatus.ComingSoon
+                //}
             }
         },
 
         new MenuSectionModel
         {
-            Title = "MANAGEMENT",
+            Title = "مدیریت",
             SectionItems = new List<MenuSectionItemModel>
             {
                 new()

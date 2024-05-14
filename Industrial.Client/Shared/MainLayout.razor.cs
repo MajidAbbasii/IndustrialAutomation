@@ -9,6 +9,7 @@ namespace Industrial.Client.Shared;
 
 public partial class MainLayout : IDisposable
 {
+    
     private readonly Palette _darkPalette = new()
     {
         Black = "#27272f",

@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Industrial.BackEnd", "Indus
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Industrial.Client", "Industrial.Client\Industrial.Client.csproj", "{2A6AED28-D925-4046-B2F7-73FD3DAD0E89}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C1535B0-04E0-474D-A17C-1C81EA7E5E0A}"
+	ProjectSection(SolutionItems) = preProject
+		gitignore.txt = gitignore.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

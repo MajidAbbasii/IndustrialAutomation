@@ -1,0 +1,55 @@
+﻿@inject IDialogService DialogService
+
+
+@page "/products"
+@using MudBlazor.Docs.Examples
+
+<h3>Products</h3>
+ <MudContainer Class="mt-16 px-8" MaxWidth="MaxWidth.False"> 
+     <MudGrid> 
+         <MudItem xs="12" sm="6" md="4"> 
+             <div style="position: relative; height: 200px;">
+                 <div style="position: absolute; top: 0; right: 0; width: 20%; height: 100%; display: flex; flex-direction: column; justify-content: space-around;"> 
+                     <!-- 20% of space for buttons --> 
+                      <MudIconButton Icon="@Icons.Material.Filled.Edit" Color="Color.Primary" /> 
+                      <MudIconButton Icon="@Icons.Material.Filled.Delete" Color="Color.Secondary" />
+                    <MudIconButton Icon="@Icons.Material.Filled.Details" Color="Color.Default" @onclick="OpenDialog" />
+                </div> 
+                 <div style="position: absolute; top: 0; left: 0; width: 80%; height: 100%;"> 
+                     <!-- 80% of space for image --> 
+                     <img src="your-image-path.jpg" style="width: 100%; height: 100%;" /> 
+                 </div> 
+             </div>
+         </MudItem> 
+     </MudGrid> 
+ </MudContainer> 
+
+
+
+<MudDialog>
+    <DialogContent>
+        Dialog Content
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Cancel">Cancel</MudButton>
+        <MudButton Color="Color.Primary" OnClick="Submit">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+
+
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    void Submit() => MudDialog.Close(DialogResult.Ok(true));
+    void Cancel() => MudDialog.Cancel();
+
+    public void OpenDialog()
+    {
+        var options = new DialogOptions { CloseOnEscapeKey = true };
+        DialogService.Show<DialogUsageExample_Dialog>("Simple Dialog", options);
+    }
+}
+
+
+
+
