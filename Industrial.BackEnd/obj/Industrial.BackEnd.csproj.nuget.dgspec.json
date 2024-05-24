@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\Industrial.BackEnd.csproj": {}
+    "F:\\Projects\\IndustrialAutomation\\industrial.backend\\Industrial.BackEnd.csproj": {}
   },
   "projects": {
-    "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\Industrial.BackEnd.csproj": {
+    "F:\\Projects\\IndustrialAutomation\\industrial.backend\\Industrial.BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\Industrial.BackEnd.csproj",
+        "projectUniqueName": "F:\\Projects\\IndustrialAutomation\\industrial.backend\\Industrial.BackEnd.csproj",
         "projectName": "Industrial.BackEnd",
-        "projectPath": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\Industrial.BackEnd.csproj",
-        "packagesPath": "C:\\Users\\Hossein\\.nuget\\packages\\",
-        "outputPath": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\",
+        "projectPath": "F:\\Projects\\IndustrialAutomation\\industrial.backend\\Industrial.BackEnd.csproj",
+        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\IndustrialAutomation\\industrial.backend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Hossein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,13 +49,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Duende.IdentityServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Duende.IdentityServer.AspNetIdentity": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Duende.IdentityServer.EntityFramework": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
               "version": "[8.0.4, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

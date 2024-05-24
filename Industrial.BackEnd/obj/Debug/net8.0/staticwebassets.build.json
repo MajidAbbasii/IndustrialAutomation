@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mi1kHt9vfCxmHuYbxZyivngIhmyJXTn+OzMV+/NEZh8=",
+  "Hash": "ga0BWZ1C9xd2NbdzHOyX9O700tWOcFY1QUJxnRifxJg=",
   "Source": "Industrial.BackEnd",
   "BasePath": "_content/Industrial.BackEnd",
   "Mode": "Default",
@@ -9,10 +9,10 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -25,13 +25,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -44,13 +44,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hossein\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\msi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css",
+      "Identity": "F:\\Projects\\IndustrialAutomation\\industrial.backend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css",
       "SourceId": "Industrial.BackEnd",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Projects\\IndustrialAutomation\\industrial.backend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Industrial.BackEnd",
       "RelativePath": "Industrial.BackEnd.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Prj\\dotNet\\IndustrialAutomation\\Industrial.BackEnd\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css"
+      "OriginalItemSpec": "F:\\Projects\\IndustrialAutomation\\industrial.backend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Industrial.BackEnd.styles.css"
     }
   ]
 }
